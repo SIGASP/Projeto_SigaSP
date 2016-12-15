@@ -1,0 +1,10 @@
+
+
+URL :  http://adeoconsultor.com.br/prjsigasp
+
+Banco Dados: prjsigasp
+user: prjsigasp
+pass: prjs1g@sp
+url: prjsigasp.mysql.uhserver.com
+
+
